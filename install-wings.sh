@@ -54,7 +54,7 @@ fi
 #################################
 
 # download URLs
-WINGS_DL_BASE_URL="https://github.com/pterodactyl/wings/releases/download/v1.6.3/wings_linux_"
+WINGS_DL_BASE_URL="https://github.com/pterodactyl/wings/releases/download/v1.5.6/wings_linux_"
 GITHUB_BASE_URL="https://raw.githubusercontent.com/srstuxbr/pterodactyl-installer/$GITHUB_SOURCE"
 
 COLOR_RED='\033[0;31m'
